@@ -1,0 +1,9 @@
+# the data folder
+**/data
+
+# the results folder
+**/[Rr]esults*
+**/[Ee]valuation*
+
+# archive folder
+**/archive*
